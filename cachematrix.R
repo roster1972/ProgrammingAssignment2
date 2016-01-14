@@ -13,6 +13,8 @@
 ##     cacheSolve(B)
 ##     B$getinverse()
 ##       . . . the inverted matrix
+##     cacheSolve(B)
+##     getting cached data
 
 ## "This function creates a special "matrix" object that can cache its inverse."
 
